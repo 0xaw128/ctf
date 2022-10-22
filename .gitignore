@@ -1,0 +1,9 @@
+# damn vulnerable defi
+node_modules
+build
+cache
+.openzeppelin
+artifacts
+yarn.lock
+
+flareon9
